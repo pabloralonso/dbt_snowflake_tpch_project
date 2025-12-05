@@ -17,3 +17,5 @@ models:
     description: Coste unitario de adquisición del producto.
   - name: total_stock_value
     description: "Métrica calculada: (Cantidad Disponible * Coste Unitario)."
+
+    #prueba
